@@ -19,5 +19,6 @@ This year Steag Center is organizing Arduino Day 2020 community event at Rajagir
 7. [Digital Clock](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Clock) intermediate
 
 
+<hr>
 
 #### Yess! You can also work on your own idea and build your own poject.
