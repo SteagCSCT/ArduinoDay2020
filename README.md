@@ -10,7 +10,7 @@ This year Steag Center is organizing Arduino Day 2020 community event at Rajagir
 * Students must return all the components and modules after the event. 
 
 ### Available Project Documentations.  
-1.  [Control Things using Mobile Phone](Control Things Using Mobile Phone/) (beginner) 
+1.  [Control Things using Mobile Phone](../Control Things Using Mobile Phone/) (beginner) 
 1.  [Control Things using Mobile Phone](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20Things%20Using%20Mobile%20Phone) (beginner) 
 2. [Mobile Phone Controlled DIY Car](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Mobile%20Phone%20Controlled%20DIY%20Car) (beginner)
 3. [Control things using Voice](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20things%20using%20voice) (intermediate)
