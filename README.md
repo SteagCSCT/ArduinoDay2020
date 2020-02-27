@@ -9,7 +9,7 @@ This year Steag Center is organizing Arduino Day 2020 community event at Rajagir
 • Steag Center will provide Kit’s and Documentation for the projects 
 • Students must return all the components and modules after the event. 
 
-### Projects 
+### Available Project Documentations.  
 1. [Mobile Phone Controlled DIY Car](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Mobile%20Phone%20Controlled%20DIY%20Car)
 2. [Control Things using Mobile Phone](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20Things%20Using%20Mobile%20Phone) 
 3. [Control things using Voice](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20things%20using%20voice) 
