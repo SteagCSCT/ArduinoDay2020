@@ -16,7 +16,7 @@ This year Steag Center is organizing Arduino Day 2020 community event at Rajagir
 4. [Digital Thermostat](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Thermostat) (beginner)
 5. [Intruder Alerter](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Intruder%20Alerter) (beginner)
 6. [Digital Scale](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Scale) (beginner)
-7. [Digital Clock](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Clock) intermediate
+7. [Digital Clock](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Clock) (intermediate)
 
 
 <hr>
