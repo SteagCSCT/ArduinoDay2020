@@ -10,13 +10,13 @@ This year Steag Center is organizing Arduino Day 2020 community event at Rajagir
 • Students must return all the components and modules after the event. 
 
 ### Available Project Documentations.  
-1. [Mobile Phone Controlled DIY Car](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Mobile%20Phone%20Controlled%20DIY%20Car)
-2. [Control Things using Mobile Phone](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20Things%20Using%20Mobile%20Phone) 
-3. [Control things using Voice](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20things%20using%20voice) 
-4. [Digital Thermostat](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Thermostat)
-5. [Digital Scale](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Scale)
-6. [Digital Clock](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Clock) 
-7. [Intruder Alerter](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Intruder%20Alerter) 
+1. [Mobile Phone Controlled DIY Car](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Mobile%20Phone%20Controlled%20DIY%20Car) (beginner)
+2. [Control Things using Mobile Phone](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20Things%20Using%20Mobile%20Phone) (beginner)
+3. [Control things using Voice](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20things%20using%20voice) (intermediate)
+4. [Digital Thermostat](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Thermostat) (beginner)
+5. [Digital Scale](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Scale) (beginner)
+6. [Digital Clock](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Digital%20Clock) intermediate
+7. [Intruder Alerter](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Intruder%20Alerter) (beginner)
 
 
 #### Yess! You can also work on your own idea and build your own poject.
