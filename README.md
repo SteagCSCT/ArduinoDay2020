@@ -12,7 +12,7 @@ This year Steag Center is organizing Arduino Day 2020 community event at Rajagir
 ### Projects 
 1.	Mobile Phone Controlled DIY Car
 2.	Control Things using Mobile Phone 
-3.	[Control things using Voice] (https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20things%20using%20voice) 
+3.	[Control things using Voice](https://github.com/SteagCSCT/ArduinoDay2020/tree/master/Control%20things%20using%20voice) 
 4.	Digital Thermostat 
 5.	Digital Scale
 6.	Digital Clock 
