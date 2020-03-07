@@ -32,6 +32,9 @@ Here we are using an Arduino as controller and DS323 Real Time Clock module to C
 
 ![ds321](src/images/ds.jpeg)
 
-The DS3231 is a low-cost, highly accurate Real Time Clock which can maintain hours, minutes and seconds, as well as, day, month and year information. Also, it has automatic compensation for leap-years and for months with fewer than 31 days.
+The **DS3231** is a low-cost, highly accurate Real Time Clock which can maintain hours, minutes and seconds, as well as, day, month and year information. Also, it has automatic compensation for leap-years and for months with fewer than 31 days.
 
+The module can work on either 3.3 or 5 V which makes it suitable for many development platforms or microcontrollers. The battery input is 3V and a typical CR2032 3V battery can power the module and maintain the information for more than a year.
+
+The module uses the I2C Communication Protocol which makes the connection to the Arduino Board very easy.
 
