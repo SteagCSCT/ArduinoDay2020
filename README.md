@@ -31,7 +31,7 @@ We belive learn by doing is one of best learing practise and that's why we creat
 
 ### Avialble Tools at Steag Center 
 
-#### Development Boards |
+#### Development Boards 
 
 * Raspberry Pi B+
 * Arduino Uno
@@ -56,12 +56,12 @@ We belive learn by doing is one of best learing practise and that's why we creat
 * Pressure Sensor
 * Soil Moisture Sensor 
 
-#### Acutaors 
+#### Actuators
 
 * 100rpm DC Motor 
 * BO Motor
 * Stepper Motor 
-* Servo motor
+*     Servo motor
 
 #### Peripherals
 * Led Red
