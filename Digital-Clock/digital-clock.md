@@ -47,5 +47,30 @@ An LCD is an electronic display module which uses liquid crystal to produce a vi
 
 ![LCD Pin Description](../Digital-Scale/src/images/lcd_pinouts_des.png)
 
+<hr>
+
+### Step 1: Arduino Setup
+
+#### 1.1: Install Arduino IDE
+
+Download the [Arduino IDE](https://www.arduino.cc/en/Main/Software) and install it on your computer.
+
+![Arduino IDE Download](../docs/images/arduinoide01.JPG)
+
+#### 1.2 walk-through the Arduino Introduction page to learn basics
+If you are new to the arduino system, you can learn the [ Arduino basics from here](Arduino-basics/arduino-basics.md) , after reading then go to the next step.
+
+### Step 2: Programming
+
+#### 2.1 Algorithm
+
+![algorithm](src/images/alogo.png)
 
 <hr>
+
+#### 2.2 Open Arduino IDE and Start a new Sketch 
+
+![Arduino IDE Sketch](../docs/images/arduinoide02.JPG)
+
+#### 2.3 Read then Copy and Paste the Code
+
