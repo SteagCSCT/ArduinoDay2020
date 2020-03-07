@@ -38,3 +38,14 @@ The module can work on either 3.3 or 5 V which makes it suitable for many develo
 
 The module uses the I2C Communication Protocol which makes the connection to the Arduino Board very easy.
 
+#### LCD Module
+An LCD is an electronic display module which uses liquid crystal to produce a visible image. The 16×2 LCD display is a very basic module commonly used in DIYs and circuits. The 16×2 translates o a display 16 characters per line in 2 such lines. In this LCD each character is displayed in a 5×7 pixel matrix.
+
+![LCD Pinout](../Digital-Scale/src/images/lcd_pinouts.png)
+
+#### Pin Description 
+
+![LCD Pin Description](../Digital-Scale/src/images/lcd_pinouts_des.png)
+
+
+<hr>
